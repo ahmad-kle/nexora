@@ -1,0 +1,7 @@
+[
+{"id":"altaqwa","cat":"stores","url":"https://altaqwa.web.app/","image":"","name":"متجر التقوى","nameEn":"Al-Taqwa Store","ar":{"desc":"متجر إلكتروني منشور ويعمل على الإنترنت.","features":[]},"en":{"desc":"An online store, live on the web.","features":[]}},
+{"id":"viola","cat":"stores","url":"https://viola-style.web.app","image":"","name":"متجر فيولا","nameEn":"Viola Store","ar":{"desc":"متجر إلكتروني منشور ويعمل على الإنترنت.","features":[]},"en":{"desc":"An online store, live on the web.","features":[]}},
+{"id":"roya","cat":"stores","url":"https://roya-rosse.github.io","image":"","name":"متجر رويا","nameEn":"Roya Store","ar":{"desc":"مشروع منشور ويعمل على الإنترنت.","features":[]},"en":{"desc":"A project, live on the web.","features":[]}},
+{"id":"gpa","cat":"tools","url":"https://ahmad-kle.github.io/gpa/","image":"","name":"أداة حساب المعدل","nameEn":"GPA Calculator","ar":{"desc":"أداة ويب تفاعلية لحساب المعدل.","features":[]},"en":{"desc":"An interactive web tool for calculating GPA.","features":[]}},
+{"id":"sarf","cat":"tools","url":"https://ahmad-kle.github.io/sarf/","image":"","name":"صرّاف","nameEn":"Sarf — Currency Converter","ar":{"desc":"أداة ويب لحساب وتحويل العملات.","features":[]},"en":{"desc":"A web tool for calculating and converting currencies.","features":[]}}
+]
